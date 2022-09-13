@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my_sweet_test_assingment%20/static/css/main.073c9b0a.css",
+    "main.js": "/my_sweet_test_assingment%20/static/js/main.74e9670b.js",
+    "static/js/787.c859d1f2.chunk.js": "/my_sweet_test_assingment%20/static/js/787.c859d1f2.chunk.js",
+    "static/media/logo.svg": "/my_sweet_test_assingment%20/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my_sweet_test_assingment%20/index.html",
+    "main.073c9b0a.css.map": "/my_sweet_test_assingment%20/static/css/main.073c9b0a.css.map",
+    "main.74e9670b.js.map": "/my_sweet_test_assingment%20/static/js/main.74e9670b.js.map",
+    "787.c859d1f2.chunk.js.map": "/my_sweet_test_assingment%20/static/js/787.c859d1f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.74e9670b.js"
+  ]
+}
